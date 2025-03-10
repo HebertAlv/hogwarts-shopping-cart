@@ -1,3 +1,4 @@
+
 <template>
     <div>
       <CartTitle :username="username"></CartTitle>
@@ -116,3 +117,4 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
   </style>
+  
